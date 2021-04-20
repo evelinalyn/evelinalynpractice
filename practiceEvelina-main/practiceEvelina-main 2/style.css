@@ -1,0 +1,12 @@
+body {       
+	background-color:#F5EDFF;}
+h1{
+	color:#000637;
+	font-size:66px;
+	text-align:center;
+	font-family: 'Staatliches', cursive;
+}
+p, li{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:15px;
+}
